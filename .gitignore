@@ -1,0 +1,13 @@
+# Ignore virtual environment
+env/
+venv/
+ENV/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Csv files
+
+*.csv
